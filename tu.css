@@ -1,0 +1,41 @@
+nav {
+height:42px;
+background-color:blue;
+}
+nav ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+nav ul li a {
+	text-decoration:none;
+	float:left;
+	color:#FFFFFF;
+	padding:0px 40px;
+	text-align:center;
+	line-height:42px;
+	height:42px;
+}
+nav ul li a:hover{
+ background-color:#FFFFFF;
+color:green;
+border-radius:8px;
+}	
+nav ul li a.active{
+ background-color:#FFFFFF;
+color:green;
+border-radius:8px;
+}
+h4{
+font-size:40px;
+color:green;
+text-decoration:underline ;
+}h5{
+font-size:40px;
+color:black;
+text-decoration:underline ;
+}
+body
+{
+background-color:yellow;
+}
